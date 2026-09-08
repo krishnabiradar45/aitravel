@@ -1,0 +1,10 @@
+{
+  "description": "Plan personalized trips with AI-powered itineraries, budget tracking, real-time travel advice, and smart recommendations for seamless travel experiences.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
